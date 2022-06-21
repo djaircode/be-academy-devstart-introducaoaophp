@@ -1,0 +1,8 @@
+<?php
+/*
+// var_dump($_SERVER);
+
+echo $_SERVER['REQUEST_URI'];
+
+if($url === '/') => echo '<h1>Página Inicial</h1>';
+*/
